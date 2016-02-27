@@ -1,0 +1,6 @@
+[package]
+name = "ewma"
+version = "1.0.0"
+authors = ["Mick Koch <mick@kochm.co>"]
+
+[dependencies]
