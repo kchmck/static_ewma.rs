@@ -1,4 +1,4 @@
 [package]
-name = "ewma"
+name = "static_ewma"
 version = "1.0.0"
 authors = ["Mick Koch <mick@kochm.co>"]
